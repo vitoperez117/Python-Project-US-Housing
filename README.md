@@ -31,13 +31,13 @@ Rate of change for top cities range from 10% to 60%
 
 Current property values across top cities 80k and 700k
 
-### Conclusion
-## Challenges
+## Conclusion
+### Challenges
 The data is too simple for usable action. Expectations needed to be set that any conclusions to our findings would be the tip of the iceberg for evaluating home prices.
 
 Ensuring findings are relevant to the audience. Research is key to determining market demand and the types of data presented are more than just interesting but also useful.
 
-## Takeaways
+### Takeaways
 Invest in a single-family home with the cheapest current value and the highest short term rate of change, you should pay attention to ID, SC, UT, MI, and TN..
 
 Starting your search wider and drilling in ensures a higher likelihood of finding high-return properties.
