@@ -24,6 +24,8 @@ Both Boise and LA demonstrate sizeable Rates of Change of in terms of property v
 
 Los Angeles neighborhoods have rates of change that are more spread out around 40%. Principal required to invest in Boise: 240k - 320k Principal required to invest in Los Angeles: 600k - 900k
 
+<img src="output plot/Top 5 Neighborhoods in Los Angeles, California.png" width=500>
+
 ### For Top 5 Cities slide:
 Top 5 cities across Idaho, South Carolina, Utah, Michigan, and Tennessee.
 
