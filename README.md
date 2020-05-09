@@ -3,17 +3,17 @@
 ### by Vito Perez, Gerard Tieng, Peirang Xu
 # Historical Analysis of Single-home Values in the U.S. for Potential Investment
 
-##Core Message
+## Core Message
 At the current median value at $231,000 and rising, purchasing a home is a serious decision that should not be taken lightly.
 
 Our group believes that the use of data analysis and visualization to evaluate historical home values will be able to better inform anyone looking to purchase a home about their potential investment opportunity.
 
-##Main Inquiry
+## Main Inquiry
 "If I had the money to purchase a single-family home in the U.S., where would be the best place to invest and receive the best return on investment?"
 
 Our primary objective with this analysis is to maximize monetary gain.
 
-##Brief Summary
+## Brief Summary
 While it is understood that home prices can be affected by numerous factors (economy,taxes, crisis, etc.), our analysis was able to yield satisfactory results in:
 
 Determining percentage increases/decreases in home values and the ranked comparisons of such values across the nation.
